@@ -52,7 +52,7 @@ export default function Login_page() {
                 </div>
                     </div>
 
-                <div><img className="image" src="/public/dd1.png" alt="img" /></div></div>
+                <div><img className="image" src="/dd1.png" alt="img" /></div></div>
                 </div>
         </>
     )

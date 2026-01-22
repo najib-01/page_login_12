@@ -53,7 +53,7 @@ export default function Register_page() {
                       </div>
                           </div>
       
-                      <div><img className="image" src="/public/dd2.png" alt="img" /></div></div>
+                      <div><img className="image" src="/dd2.png" alt="img" /></div></div>
                       </div>
            
         </>
